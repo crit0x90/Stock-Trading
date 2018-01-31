@@ -1,6 +1,6 @@
 # Stock-Trading
 The purpose of this program is to simulate two client users
-trading stocks with a server
+trading stocks with a server using sockets.
 
 All of the instructions provided in the following readme
 are based on the assumption that all of the required 
@@ -19,5 +19,5 @@ Then run 'python3 client.py' and 'python3 client2.py'
 if the IP address is needed for the server run 'ifconfig'
 before attempting to run the server. 
 
-All of the details on how the program executes are contained
-in the report.
+All of the details on how the program executes and 
+implementation decisions are contained in the report.
